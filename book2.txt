@@ -1,0 +1,37 @@
+Animal Farm|George Orwell*Fiction/0000000000039
+The Chronicles of Narnia|C.S. Lewis*Fiction/0000000000040
+The Hobbit and The Lord of the Rings|J.R.R. Tolkien*Fiction/0000000000041
+The Fault in Our Stars|John Green*Fiction/0000000000042
+Gone with the Wind|Margaret Mitchell*Fiction/0000000000043
+The Giving Tree|Shel Silverstein*Fiction/0000000000044
+Wuthering Heights|Emily Brontë*Fiction/0000000000045
+The Picture of Dorian Gray|Oscar Wilde*Fiction/0000000000046
+The Da Vinci Code|Dan Brown*Fiction/0000000000047
+Memoirs of a Geisha|Arthur Golden*Fiction/0000000000048
+Jane Eyre|Charlotte Brontë*Fiction/0000000000049
+Alice's Adventures in Wonderland : Through the Looking-Glass|Lewis Carroll*Fiction/0000000000050
+Les Misérables|Victor Hugo*Fiction/0000000000051
+Fahrenheit 451|Ray Bradbury*Fiction/0000000000052
+Divergent (Divergent, #1)|Veronica Roth*Fiction/0000000000053
+The Perks of Being a Wallflower|by Stephen Chbosky*Fiction/0000000000054
+The Great Gatsby|F. Scott Fitzgerald*Fiction/0000000000055
+Lord of the Flies|William Golding*Fiction/0000000000056
+The Alchemist|Paulo Coelho*Fiction/0000000000057
+Romeo and Juliet|William Shakespeare*Fiction/0000000000058
+Crime and Punishment|Fyodor Dostoyevsky*Fiction/0000000000059
+City of Bones (The Mortal Instruments, #1)|Cassandra Clare*Fiction/0000000000060
+The Little Prince|Antoine de Saint-Exupéry*Fiction/0000000000061
+The Help|Kathryn Stockett*Fiction/0000000000062
+Ender's Game (Ender's Saga, #1)|Orson Scott Card*Fiction/0000000000063
+Anne of Green Gables (Anne of Green Gables, #1)|L.M. Montgomery*Fiction/0000000000064
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)|Douglas Adams*Fiction/0000000000065
+Charlotte's Web	Charlotte's Web|E.B. White*Fiction/0000000000066
+Of Mice and Men	Of Mice and Men|John Steinbeck*Fiction/0000000000067
+The Time Traveler's Wife|Audrey Niffenegger*Fiction/0000000000068
+Dracula	Dracula|Bram Stoker*Fiction/0000000000069
+The Lightning Thief (Percy Jackson and the Olympians, #1)|Rick Riordan*Fiction/0000000000070
+Brave New World	Brave New World|Aldous Huxley*Fiction/0000000000071
+One Hundred Years of Solitude|Gabriel García Márquez*Fiction/0000000000072
+The Catcher in the Rye|J.D. Salinger*Fiction/0000000000073
+The Princess Bride|William Goldman*Fiction/0000000000074
+The Secret Garden|Frances Hodgson Burnett*Fiction/0000000000

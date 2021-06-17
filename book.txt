@@ -1,0 +1,382 @@
+Night Outing|Robert Bask*Romance/0000000000001
+The Break of Dawn|Lenna Stuart*Romance/0000000000002
+Twilight|Ben Dover*Romance/0000000000003
+The Great Escape|Robert Bask*Romance/0000000000004
+Kiss|May Potter*Romance/0000000000005
+Everytime We Touch|Robert Bask*Romance/0000000000006
+Back To You|Lenna Stuart*Romance/0000000000007
+Blow Me One Last Kiss|Lenna Petterson*Romance/0000000000008
+Experiment XXX|Peter Blake*Science/0000000000009
+The Alien From Mars|Ethan West*Science/0000000000010
+Terminator|Andrew Simmer*Science/0000000000011
+Rise of The Machine|Larry Bolt*Science/0000000000012
+Back To The Future|Tom Bert*Science/0000000000013
+Jump To The Past|Tom Bert*Science/0000000000014
+Deus Ex Machina|Shawn Kim*Science/0000000000015
+Mutant Ninja Turtles|Austin Jackson*Science/0000000000016
+The Death of John Burney|Christen Miles*Mystery/0000000000017
+The Clock Strikes 12|Gina Stevens*Mystery/0000000000018
+Sherlock|Sam Myre*Mystery/0000000000019
+Serial Killer|Eric Mario*Mystery/0000000000020
+Spree|Yami Yugi*Mystery/0000000000021
+Who Did It?|Ben Ten*Mystery/0000000000022
+Mystery of The Glove|Jim Slim*Mystery/0000000000023
+They Who Lay In The Lake|Jo Mama*Mystery/0000000000024
+Rusted Dagger|Jo Mama*Mystery/0000000000025
+Harry Potter and the Sorceror's Stone|J.K. Rowling*Fiction/0000000000026
+Harry Potter and the Chamber of Secrets|J.K. Rowling*Fiction/0000000000027
+Harry Potter and the Prisoner of Azkaban|J.K. Rowling*Fiction/0000000000028
+Harry Potter and the Goblet of Fire|J.K. Rowling*Fiction/0000000000029
+Harry Potter and the Order of the Pheonix|J.K. Rowling*Fiction/0000000000030
+Harry Potter and the Half-Blood Prince|J.K. Rowling*Fiction/0000000000031
+Harry Potter and the Deathly Hallows|J.K. Rowling*Fiction/0000000000032
+Harry Potter and the Cursed Child|J.K. Rowling*Fiction/0000000000033
+The Hunger Games|Suzanne Collins*Fiction/0000000000034
+To Kill a Mockingbird|Harper Lee*Fiction/0000000000035
+Pride and Prejudice|Jane Austen*Fiction/0000000000036
+Twilight (Twilight, #1)|Stephenie Meyer*Fiction/0000000000037
+The Book Thief|Markus Zusak*Fiction/0000000000038
+Animal Farm|George Orwell*Fiction/0000000000039
+The Chronicles of Narnia|C.S. Lewis*Fiction/0000000000040
+The Hobbit and The Lord of the Rings|J.R.R. Tolkien*Fiction/0000000000041
+The Fault in Our Stars|John Green*Fiction/0000000000042
+Gone with the Wind|Margaret Mitchell*Fiction/0000000000043
+The Giving Tree|Shel Silverstein*Fiction/0000000000044
+Wuthering Heights|Emily Brontë*Fiction/0000000000045
+The Picture of Dorian Gray|Oscar Wilde*Fiction/0000000000046
+The Da Vinci Code|Dan Brown*Fiction/0000000000047
+Memoirs of a Geisha|Arthur Golden*Fiction/0000000000048
+Jane Eyre|Charlotte Brontë*Fiction/0000000000049
+Alice's Adventures in Wonderland : Through the Looking-Glass|Lewis Carroll*Fiction/0000000000050
+Les Misérables|Victor Hugo*Fiction/0000000000051
+Fahrenheit 451|Ray Bradbury*Fiction/0000000000052
+Divergent (Divergent, #1)|Veronica Roth*Fiction/0000000000053
+The Perks of Being a Wallflower|by Stephen Chbosky*Fiction/0000000000054
+The Great Gatsby|F. Scott Fitzgerald*Fiction/0000000000055
+Lord of the Flies|William Golding*Fiction/0000000000056
+The Alchemist|Paulo Coelho*Fiction/0000000000057
+Romeo and Juliet|William Shakespeare*Fiction/0000000000058
+Crime and Punishment|Fyodor Dostoyevsky*Fiction/0000000000059
+City of Bones (The Mortal Instruments, #1)|Cassandra Clare*Fiction/0000000000060
+The Little Prince|Antoine de Saint-Exupéry*Fiction/0000000000061
+The Help|Kathryn Stockett*Fiction/0000000000062
+Ender's Game (Ender's Saga, #1)|Orson Scott Card*Fiction/0000000000063
+Anne of Green Gables (Anne of Green Gables, #1)|L.M. Montgomery*Fiction/0000000000064
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)|Douglas Adams*Fiction/0000000000065
+Charlotte's Web	Charlotte's Web|E.B. White*Fiction/0000000000066
+Of Mice and Men	Of Mice and Men|John Steinbeck*Fiction/0000000000067
+The Time Traveler's Wife|Audrey Niffenegger*Fiction/0000000000068
+Dracula	Dracula|Bram Stoker*Fiction/0000000000069
+The Lightning Thief (Percy Jackson and the Olympians, #1)|Rick Riordan*Fiction/0000000000070
+Brave New World	Brave New World|Aldous Huxley*Fiction/0000000000071
+One Hundred Years of Solitude|Gabriel García Márquez*Fiction/0000000000072
+The Catcher in the Rye|J.D. Salinger*Fiction/0000000000073
+The Princess Bride|William Goldman*Fiction/0000000000074
+The Secret Garden|Frances Hodgson Burnett*Fiction/0000000000075
+A Thousand Splendid Suns|Khaled Hosseini*Fiction/0000000000076
+A Game of Thrones (A Song of Ice and Fire, #1)|George R.R. Martin*Fiction/0000000000077
+A Wrinkle in Time (Time Quintet, #1)|Madeleine L'Engle*Fiction/0000000000078
+The Outsiders|S.E. Hinton*Fiction/0000000000079
+The Adventures of Huckleberry Finn|Mark Twain*Fiction/0000000000080
+The Lovely Bones|Alice Sebold*Fiction/0000000000081
+Where the Wild Things Are|Maurice Sendak*Fiction/0000000000082
+The Odyssey|Homer*Fiction/0000000000083
+Green Eggs and Ham|Dr. Seuss*Fiction/0000000000084
+Life of Pi|Yann Martel*Fiction/0000000000085
+A Tale of Two Cities|Charles Dickens*Fiction/0000000000086
+Water for Elephants|Sara Gruen*Fiction/0000000000087
+Lolita|Vladimir Nabokov*Fiction/0000000000088
+The Kite Runner|Khaled Hosseini*Fiction/0000000000089
+Slaughterhouse-Five|Kurt Vonnegut Jr.*Fiction/0000000000090
+Frankenstein: The 1818 Text|Mary Wollstonecraft Shelley*Fiction/0000000000091
+The Handmaid's Tale (The Handmaid's Tale, #1)|Margaret Atwood*Fiction/0000000000092
+The Giver (The Giver, #1)|Lois Lowry*Fiction/0000000000093
+Dune (Dune, #1)|Frank Herbert*Fiction/0000000000094
+Catch-22|Joseph Heller*Fiction/0000000000095
+The Stand|Stephen King*Fiction/0000000000096
+The Pillars of the Earth (Kingsbridge)|Ken Follett*Fiction/0000000000097
+Little Women|Louisa May Alcott*Fiction/0000000000098
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)|Douglas Adams*Fiction/0000000000099
+The Adventures of Sherlock Holmes (Sherlock Holmes, #3)|Arthur Conan Doyle*Fiction/0000000000100
+1984|George Orwell*Fiction/0000000000101
+Watership Down (Watership Down, #1)|Richard Adams*Fiction/0000000000102
+Great Expectations|Charles Dickens*Fiction/0000000000103
+The Bell Jar|Sylvia Plath*Fiction/0000000000104
+Anna Karenina|Leo Tolstoy*Fiction/0000000000105
+Matilda	Matilda|Roald Dahl*Fiction/0000000000106
+One Flew Over the Cuckoo's|Ken Kesey*Fiction/0000000000107
+Outlander (Outlander, #1)|Diana Gabaldon*Fiction/0000000000108
+The Girl with the Dragon Tattoo (Millennium, #1)|Stieg Larsson*Fiction/0000000000109
+My Sister's Keeper|Jodi Picoult*Fiction/0000000000110
+Rebecca	Rebecca|Daphne du Maurier*Fiction/0000000000111
+The Color Purple|Alice Walker*Fiction/0000000000112
+A Tree Grows in Brooklyn|Betty Smith*Fiction/0000000000113
+The Brothers Karamazov|Fyodor Dostoyevsky*Fiction/0000000000114
+A Clockwork Orange|Anthony Burgess*Fiction/0000000000115
+The Road|Cormac McCarthy*Fiction/0000000000116
+Angela's Ashes|Frank McCourt*Fiction/0000000000117
+Siddhartha|Hermann Hesse*Fiction/0000000000118
+The Poisonwood Bible|Barbara Kingsolver*Fiction/0000000000119
+The Golden Compass (His Dark Materials, #1)|Philip Pullman*Fiction/0000000000120
+The Fellowship of the Ring (The Lord of the Rings, #1)|J.R.R. Tolkien*Fiction/0000000000121
+Don Quixote|Miguel de Cervantes Saavedra*Fiction/0000000000122
+Atlas Shrugged|Ayn Rand*Fiction/0000000000123
+The Old Man and the Sea	The Old Man and the Sea|Ernest Hemingway*Fiction/0000000000124
+The Notebook (The Notebook, #1)|Nicholas Sparks*Fiction/0000000000125
+Winnie-the-Pooh (Winnie-the-Pooh, #1)|A.A. Milne*Fiction/0000000000126
+The Complete Stories and Poems|Edgar Allan Poe*Fiction/0000000000127
+Interview with the Vampire (The Vampire Chronicles, #1)|Anne Rice*Fiction/0000000000128
+Into Thin Air|Jon Krakauer*Biography/0000000000129
+Into the Wild|Jon Krakauer*Biography/0000000000130
+Between the World and Me|Ta-Nehisi Coates*Biography/0000000000131
+The Diary Of a Young Girl|AnneFrank*Biography/0000000000132
+I Know Why the Caged Bird Sings|Maya Angelou*Biography/0000000000133
+Night|Elie Wiesel*Biography/0000000000134
+A Moveable Feast|Ernest Hemingway*Biography/0000000000135
+Steve Jobs|Walter Isaacson*Biography/0000000000136
+Greenlights|Matthew McConaughey*Biography/0000000000137
+World Travel: An Irreverent Guide|Anthony Bourdain*Travel Guides/0000000000138
+Maui Revealed: The Ultimate Guidebook|Andrew Doughty*Travel Guides/0000000000139
+Hawaii Dreamscapes Revealed - Big Island|Andrew Doughty*Travel Guides/0000000000140
+Best of Europe|Rick Steves*Travel Guides/0000000000141
+Rick Steve's Italy 2017|Rick Steves*Travel Guides/0000000000142
+Moon Route 66 Road Trip|Jessica Dunham*Travel Guides/0000000000143
+Moon Pacific Coast Highway Road Trip|Ian Cameron*Travel Guides/0000000000144
+Republic|Plato*Philosophy/0000000000145
+Meditations|Marcus Aurelius*Philosophy/0000000000146
+Apology|Plato*Philosophy/0000000000147
+A Theory of Justice|John Rawls*Philosophy/0000000000148
+An Essay Concerning Human Understanding|John Locke*Philosophy/0000000000149
+On Liberty|John Mill*Philosophy/0000000000150
+Manifesto of the Communist Party|Karl Marx*Philosophy/0000000000151
+Beyond Good and Evil|Friedrich Nietzsche*Philosophy/0000000000152
+Sophie's World|Jostein Gaarder*Philosophy/0000000000153
+Mr. Wilson’s Cabinet Of Wonder|Lawrence Weschler*Nonfiction/0000000000154
+Into the Wild|Jon Krakauer*Nonfiction/0000000000155
+The Battle for God|Karen Armstrong*Nonfiction/0000000000156
+The Age of Wonder|Richard Holmes*Nonfiction/0000000000157
+The Lost City of Z|David Grann*Nonfiction/0000000000158
+Hat Box|Stephen Sondheim*Nonfiction/0000000000159
+The Immortal Life of Henrietta Lacks|Rebecca Skloot*Nonfiction/0000000000160
+The Master Switch|Tim Wu*Nonfiction/0000000000161
+The Warmth of Other Suns|Isabel Wilkerson*Nonfiction/0000000000162
+The Information|James Gleick*Nonfiction/0000000000163
+Behind the Beautiful Forevers|Katherine Boo*Nonfiction/0000000000164
+The Old Ways|Robert Macfarlane*Nonfiction/0000000000165
+Going Clear|Lawrence Wright*Nonfiction/0000000000166
+Wave|Sonali Deraniyagala*Nonfiction/0000000000167
+Barbarian Days|William Finnegan*Nonfiction/0000000000168
+Negroland|Margo Jefferson*Nonfiction/0000000000169
+How to Survive a Plague|David France*Nonfiction/0000000000170
+Lab Girl|Hope Jahren*Nonfiction/0000000000171
+One Day|Gene Weingarten*Nonfiction/0000000000172
+In Cold Blood|Truman Capote*Nonfiction/0000000000173
+When Breath Becomes Air|Paul Kalanithi*Nonfiction/0000000000174
+I Know Why the Caged Bird Sings|Maya Angelou*Nonfiction/0000000000175
+Hiroshima|John Hersey*Nonfiction/0000000000176
+The Diary Of a Young Girl|Anne Frank*Nonfiction/0000000000177
+I'll Be Gone in the Dark|Michelle McNamara*Nonfiction/0000000000178
+Three Women|Lisa Taddeo*Nonfiction/0000000000179
+H Is for Hawk|Helen Macdonald*Nonfiction/0000000000180
+1984|George Orwell*Fiction/0000000000181
+Don Quijote|Miguel de Cervantes*Fiction/0000000000182
+Moby Dick|Herman Melville*Fiction/0000000000183
+Gravity's Rainbow|Thomas Pynchon*Fiction/0000000000184
+Up From Slavery|Booker T. Washington*Nonfiction/0000000000185
+Pilgrim at Tinker Creek|Annie Dillard*Nonfiction/0000000000186
+Against Interpretation|Susan Sontag*Nonfiction/0000000000187
+The Making of the English Working Class|E.P Thompson*Nonfiction/0000000000188
+Out of Africa|Karen Blixen*Nonfiction/0000000000189
+Dispatches|Michael Herr*Nonfiction/0000000000190
+Notes of a Native Son|James Baldwin*Nonfiction/0000000000191
+The Feminine Mystique|Betty Frieden*Nonfiction/0000000000192
+The Structure of Scientific Revolutions|Thomas Kuhn*Nonfiction/0000000000193
+The Guns of August|Barbara Tuchman*Nonfiction/0000000000194
+Homage to Catalonia|George Orwell*Nonfiction/0000000000195
+The Year of Magical Thinking|Joan Didion*Nonfiction/0000000000196
+A Room of One's Own|Virginia Woolf*Nonfiction/0000000000197
+Silent Spring|Rachel Carson*Nonfiction/0000000000198
+Hiroshima|John Hersey*Nonfiction/0000000000199
+The Elements of Style|William Strunk Jr*Nonfiction/0000000000200
+1861: The Civil War Awakening|Adam Goodheart*Biography/0000000000201
+A Strange Stirring: The Feminine Mystique and American Women at the Dawn of the 1960s|Stephanie Coontz*Biography/0000000000202
+A. Lincoln: A Biography|Ronald C White, Jr.*Biography/0000000000203
+American Lion|Jon Meacham*Biography/0000000000204
+An Autobiography|M. K. Gandhi, Mahadev Desai*Biography/0000000000205
+Ben and Me: From Temperance to Humility|Cameron Gunn*Biography/0000000000206
+Beyond Band of Brothers|Richard D. Winters, Cole Christian Kingseed*Biography/0000000000207
+Father of All Things: A Marine, His Son, and the Legacy of Vietnam|Tom Bissell*Biography/0000000000208
+A Long Way Gone: Memoirs of a Boy Soldier|Ishmael Beah*Biography/0000000000209
+Auschwitz: A Doctor's Eyewitness Account|Miklos Nyiszli*Biography/0000000000210
+Bomb Hunters: In Afghanistan With Britain?s Elite Bomb Disposal Unit|Sean Rayment*Biography/0000000000211
+Devil at My Heels|Louis Zamperini, David Rensin*Biography/0000000000212
+Dreams in a Time of War: A Childhood Memoir|Ngugi Wa Thiong'o*Biography/0000000000213
+Escape From Saddam: The Incredible True Story of One Man's Journey to Freedom|Lewis Alsamari*Biography/0000000000214
+If I Die in a Combat Zone: Box Me Up and Ship Me Home|Tim O'Brien*Biography/0000000000215
+In Pharaoh's Army: Memories of the Lost War|Tobias Wolff*Biography/0000000000216
+Joker One: A Marine Platoon's Story of Courage, Leadership, and Brotherhood|Donovan Campbell*Biography/0000000000217
+Lions of Kandahar|Rusty Bradley, Kevin Maurer*Biography/0000000000218
+Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10|Marcus Luttrell, Patrick Robinson*Biography/0000000000219
+Mass Casualties: A Young Medic's True Story of Death, Deception, and Dishonor in Iraq|Michael Anthony*Biography/0000000000220
+One Bullet Away|Nathaniel Fick*Biography/0000000000221
+Seven Troop|Andy McNab*Biography/0000000000222
+Shooter: The Autobiography of the Top-Ranked Marine Sniper|Jack Coughlin, Donald G. Davis, Casey Kuhlman*Biography/0000000000223
+Spoken From the Front|Andy McNab*Biography/0000000000224
+The Dressmaker of Khair Khana|Gayle Tzemach Lemmon*Biography/0000000000225
+The Forgotten Highlander|Alistair Urquhart*Biography/0000000000226
+The Heart and the Fist: The Education of a Humanitarian, the Making of a Navy SEAL|Eric Greitens*Biography/0000000000227
+The Taliban Shuffle: Strange Days in Afghanistan and Pakistan|Kim Barker*Biography/0000000000228
+Twisted Prey|John Sandford*Literature/0000000000229
+The Cast|Danielle Steel*Literature/0000000000230
+The Outsider|Stephen King*Literature/0000000000231
+Shelter in Place|Nora Roberts*Literature/0000000000232
+The Other Woman|Daniel Silva*Literature/0000000000233
+Tailspin|Sandra Brown*Literature/0000000000234
+Crazy Rich Asians|Kevin Kwan*Literature/0000000000235
+Leverage in Death|J. D. Robb*Literature/0000000000236
+Lethal White|Robert Galbraith*Literature/0000000000237
+Red War|Vince Flynn,Kyle Mills*Literature/0000000000238
+A Spark of Light|Jodi Picoult*Literature/0000000000239
+Holy Ghost|John Sandford*Literature/0000000000240
+The Adventures of Tom Sawyer |Tom Sawyer*Adventure/0000000000241
+Adventures of Huckleberry Finn |Tom Sawyer*Adventure/0000000000242
+Huck Finn and Tom Sawyer among the Indians |Tom Sawyer*Adventure/0000000000243
+Tom Sawyer Abroad |Tom Sawyer*Adventure/0000000000244
+Tom Sawyer, Detective |Tom Sawyer*Adventure/0000000000245
+Structure and Interpretation of Computer Programs|Harold Abelson*Nonfiction/0000000000246
+Before They Are Hanged|Joe Abercrombie*Nonfiction/0000000000247
+The Blade Itself|Joe Abercrombie*Nonfiction/0000000000248
+The Life of a Stupid Man|Ryunosuke Akutagawa*Nonfiction/0000000000249
+Helliconia|Brian Aldiss*Nonfiction/0000000000250
+The Divine Comedy|Dante Alighier*Nonfiction/0000000000251
+The Gardens of Ynn: A delightful horticultural adventure for use in old-school roleplaying games|Emmy Allen*Nonfiction/0000000000252
+The Monsters Know What They're Doing: Combat Tactics for Dungeon Masters|Keith Ammann*Nonfiction/0000000000253
+Tau Zero|Poul Anderson*Nonfiction/0000000000254
+The Great Indoors: The Surprising Science of How Buildings Shape Our Behaviour, Health, and Happiness|Emily Anthes*Nonfiction/0000000000255
+JoJo's Bizarre Adventure: Part I. Phantom Blood (vol. 1)|Hirohiko Araki*Manga/0000000000256
+JoJo's Bizarre Adventure: Part I. Phantom Blood (vol. 2)|Hirohiko Araki*Manga/0000000000257
+Foundation, Foundation and Empire, Second Foundation|Isaac Asimov*Manga/0000000000258
+The Complete Robot|Isaac Asimov*Manga/0000000000259
+The Naked Sun|Isaac Asimov*Manga/0000000000260
+Meditations|Marcus Aurelius*Manga/0000000000261
+Azumanga Daioh Omnibus|Kiyohiko Azuma*Manga/0000000000262
+Yotsuba &! (vol. 1)|Kiyohiko Azuma*Manga/0000000000263
+Yotsuba &! (vol. 2)|Kiyohiko Azuma*Manga/0000000000264
+Yotsuba &! (vol. 3)|Kiyohiko Azuma*Manga/0000000000265
+Yotsuba &! (vol. 4)|Kiyohiko Azuma*Manga/0000000000266
+Yotsuba &! (vol. 5)|Kiyohiko Azuma*Manga/0000000000267
+50 Physics Ideas You Really Need to Know|Joanne Baker*Science/0000000000268
+The Atheist's Mass|Honore de Balzac*Science/0000000000269
+Consider Phlebas|Iain M. Banks*Nonfiction/0000000000270
+Excession|Iain M. Banks*Nonfiction/0000000000271
+Inversions|Iain M. Banks*Nonfiction/0000000000272
+Look to Windward|Iain M. Banks*Nonfiction/0000000000273
+Matter|Iain M. Banks*Nonfiction/0000000000274
+Surface Detail|Iain M. Banks*Nonfiction/0000000000275
+The Algebraist|Iain M. Banks*Nonfiction/0000000000276
+The Hydrogen Sonata|Iain M. Banks*Nonfiction/0000000000277
+The Indian in the Cupboard Trilogy|Lynne Reid Banks*Nonfiction/0000000000278
+The Player of Games|Iain M. Banks*Nonfiction/0000000000279
+The Player of Games|Iain M. Banks*Nonfiction/0000000000280
+The State of the Art|Iain M. Banks*Nonfiction/0000000000281
+Use of Weapons|Iain M. Banks*Nonfiction/0000000000282
+Mister B Gone|Clive Barker*Nonfiction/0000000000283
+The Hellbound Heart|Clive Barker*Horror/0000000000284
+In the Court of the Yellow King|Glynn Owen Barrass*Horror/0000000000285
+Jennifer Government|Max Barry*Nonfiction/0000000000286
+The Godwhale|T. J. Bass*Nonfiction/0000000000287
+Raft|Stephen Baxter*Nonfiction/0000000000288
+The Long Earth|Stephen Baxter*Nonfiction/0000000000289
+The Long War|Stephen Baxter*Nonfiction/0000000000290
+The Forge of God|Greg Bear*Nonfiction/0000000000291
+The Phoenix Project: A Novel About IT, DevOps, and Helping your Business Win|Kevin Behr*Nonfiction/0000000000292
+The Rule of Benedict|Benedict of Nursia*Nonfiction/0000000000293
+Site Reliability Engineering: How Google Runs Production Systems|Betsy Beyer*Nonfiction/0000000000294
+The Site Reliability Workbook: Practical Ways to Implement SRE|Betsy Beyer*Nonfiction/0000000000295
+Can Such Things Be?|Ambrose Bierce*Horror/0000000000296
+Civil War Stories|Ambrose Bierce*Horror/0000000000297
+The Bizarro Starter Kit (Blue)|Steve Aylett*Horror/0000000000298
+The Bizarro Starter Kit (Orange)|Steve Beard*Horror/0000000000299
+The Bizarro Starter Kit (Purple)|David Agranoff*Horror/0000000000300
+Ancient Sorceries and Other Weird Stories|Algernon Blackwood*Horror/0000000000301
+Three Supernatural Classics: The Willows, The Wendigo, The Listener|Algernon Blackwood*Horror/0000000000302
+Mysteries of the Worm|Robert Bloch*Horror/0000000000303
+Adventures of the Wishing-Chair|Enid Blyton*Horror/0000000000304
+The Wishing-Chair Again|Enid Blyton*Thriller/0000000000305
+An Investigation of the Laws of Thought: On which are founded the Mathematical Theories of Logic and Probabilities|George Boole*Thriller/0000000000306
+Labyrinths|Jorge Luis Borges*Thriller/0000000000307
+The Aleph|Jorge Luis Borges*Thriller/0000000000308
+The Book of Imaginary Beings|Jorge Luis Borges*Thriller/0000000000309
+The Righteous Men|Sam Bourne*Thriller/0000000000310
+The Long Tomorrow|Leigh Brackett*Thriller/0000000000311
+Fahrenheit 451|Ray Bradbury*Thriller/0000000000312
+Something Wicked This Way Comes|Ray Bradbury*Thriller/0000000000313
+Room at the Top|John Braine*Thriller/0000000000314
+Dream Master Nightmare!|Theresa Breslin*Thriller/0000000000315
+The Dream Master|Theresa Breslin*Thriller/0000000000316
+A tourist guide to Lancre|Stephen Briggs*Thriller/0000000000317
+The Discworld mapp|Stephen Briggs*Thriller/0000000000318
+The streets of Ankh-Morpork|Stephen Briggs*Thriller/0000000000319
+The Postman|David Brin*Thriller/0000000000320
+Wuthering Heights|Emily Brontë*Thriller/0000000000321
+Dawn of the Dumb|Charlie Brooker*Thriller/0000000000322
+Computer Science: An Overview|J. Glenn Brookshear*Thriller/0000000000323
+Angels and demons|Dan Brown*Thriller/0000000000324
+Deception Point|Dan Brown*Thriller/0000000000325
+Digital Fortress|Dan Brown*Thriller/0000000000326
+The Da Vinci Code|Dan Brown*Thriller/0000000000327
+The Pilgrim's Progress|John Bunyan*Thriller/0000000000328
+A Clockwork Orange|Anthony Burgess*Fiction/0000000000329
+Where The Crawdads Sing|Delia Owens*Fiction/0000000000330
+The Melancholy Death of Oyster Boy & Other Stories|Tim Burton*Fiction/0000000000331
+The Secret|Rhonda Byrne*Fiction/0000000000332
+The Fall|Albert Camus*Fiction/0000000000333
+The Myth of Sisyphus|Albert Camus*Fiction/0000000000334
+The Plague|Albert Camus*Fiction/0000000000335
+The Stranger|Albert Camus*Fiction/0000000000336
+Ender's Game|Orson Scott Card*Fiction/0000000000337
+The Shakespeare Secret|Jennifer Lee Carrell*Fiction/0000000000338
+Alice's Adventures in Wonderland and Through the Looking-Glass|Lewis Carroll*Fiction/0000000000339
+Graceling|Kristin Cashore*Fiction/0000000000340
+The Vorrh|Brian Catling*Fiction/0000000000341
+The King in Yellow|Robert W. Chambers*Horror/0000000000342
+Algorithms to Live By: The Computer Science of Human Decisions|Brian Christian*Nonfiction/0000000000343
+2001: A Space Odyssey|Arthur C. Clarke*Nonfiction/0000000000344
+2010: Odyssey Two|Arthur C. Clarke*Nonfiction/0000000000345
+2061: Odyssey Three|Arthur C. Clarke*Nonfiction/0000000000346
+3001: The Final Odyssey|Arthur C. Clarke*Nonfiction/0000000000347
+Childhood's End|Arthur C. Clarke*Nonfiction/0000000000348
+Jonathan Strange & Mr Norrell|Susanna Clarke*Nonfiction/0000000000349
+Rendezvous with Rama|Arthur C. Clarke*Nonfiction/0000000000350
+The City and the Stars|Arthur C. Clarke*Nonfiction/0000000000351
+The Collected Stories|Arthur C. Clarke*Nonfiction/0000000000352
+The Songs of Distant Earth|Arthur C. Clarke*Nonfiction/0000000000353
+The Richest Man in Babylon|George S. Clason*Nonfiction/0000000000354
+Wit'ch Fire|James Clemens*Nonfiction/0000000000355
+Wit'ch Gate|James Clemens*Nonfiction/0000000000356
+Wit'ch Star|James Clemens*Nonfiction/0000000000357
+Wit'ch Storm|James Clemens*Nonfiction/0000000000358
+Wit'ch War|James Clemens*Nonfiction/0000000000359
+The Seeds of Earth|Michael Cobley*Nonfiction/0000000000360
+What a Carve Up!|Jonathan Coe*Nonfiction/0000000000361
+Artemis Fowl|Eoin Colfer*Nonfiction/0000000000362
+Artemis Fowl and the Arctic Incident|Eoin Colfer*Nonfiction/0000000000363
+Artemis Fowl and the Eternity Code|Eoin Colfer*Nonfiction/0000000000364
+Artemis Fowl and the Lost Colony|Eoin Colfer*Nonfiction/0000000000365
+The Supernaturalist|Eoin Colfer*Nonfiction/0000000000366
+The Haunted Hotel|Wilkie Collins*Nonfiction/0000000000367
+The Moonstone|Wilkie Collins*Nonfiction/0000000000368
+The Woman in White|Wilkie Collins*Nonfiction/0000000000369
+Heart of Darkness|Joseph Conrad*Nonfiction/0000000000370
+Typhoon and Other Tales|Joseph Conrad*Nonfiction/0000000000371
+Give a Dog a Bone|Louise Cooper*Nonfiction/0000000000372
+If You Could Ask God One Question|Barry Cooper*Nonfiction/0000000000373
+Incy Wincy Spider|Louise Cooper*Nonfiction/0000000000374
+Aliens Stole My Dad|Bruce Coville*Nonfiction/0000000000375
+Sumer and the Sumerians|Harriet Crawford*Nonfiction/0000000000376
+Berlin: The Wicked City - Unveiling the Mythos in Weimar Berlin|David Larkins*Nonfiction/0000000000377
+Call of Cthulhu: Investigator Handbook|Sandy Petersen*Nonfiction/0000000000378
+Call of Cthulhu: Keeper Rulebook|Sandy Petersen*Nonfiction/0000000000379
+Call of Cthulhu: Keeper Screen|Sandy Petersen*Nonfiction/0000000000380
+Doors to Darkness: Five Scenarios for Beginning Keepers|Christopher Smith Adair*Nonfiction/0000000000381
+Down Darker Trails: Terrors of the Mythos in the Old West|Kevin Ross*Nonfiction/0000000000382

@@ -1,0 +1,62 @@
+Night Outing|Robert Bask*Romance/0000000000001
+The Break of Dawn|Lenna Stuart*Romance/0000000000002
+Twilight|Ben Dover*Romance/0000000000003
+The Great Escape|Robert Bask*Romance/0000000000004
+Kiss|May Potter*Romance/0000000000005
+Everytime We Touch|Robert Bask*Romance/0000000000006
+Back To You|Lenna Stuart*Romance/0000000000007
+Blow Me One Last Kiss|Lenna Petterson*Romance/0000000000008
+Experiment XXX|Peter Blake*Science/0000000000009
+The Alien From Mars|Ethan West*Science/0000000000010
+Terminator|Andrew Simmer*Science/0000000000011
+Rise of The Machine|Larry Bolt*Science/0000000000012
+Back To The Future|Tom Bert*Science/0000000000013
+Jump To The Past|Tom Bert*Science/0000000000014
+Deus Ex Machina|Shawn Kim*Science/0000000000015
+Mutant Ninja Turtles|Austin Jackson*Science/0000000000016
+The Death of John Burney|Christen Miles*Mystery/0000000000017
+The Clock Strikes 12|Gina Stevens*Mystery/0000000000018
+Sherlock|Sam Myre*Mystery/0000000000019
+Serial Killer|Eric Mario*Mystery/0000000000020
+Spree|Yami Yugi*Mystery/0000000000021
+Who Did It?|Ben Ten*Mystery/0000000000022
+Mystery of The Glove|Jim Slim*Mystery/0000000000023
+They Who Lay In The Lake|Jo Mama*Mystery/0000000000024
+Rusted Dagger|Jo Mama*Mystery/0000000000025
+Harry Potter and the Sorceror's Stone|J.K. Rowling*Fiction/0000000000026
+Harry Potter and the Chamber of Secrets|J.K. Rowling*Fiction/0000000000027
+Harry Potter and the Prisoner of Azkaban|J.K. Rowling*Fiction/0000000000028
+Harry Potter and the Goblet of Fire|J.K. Rowling*Fiction/0000000000029
+Harry Potter and the Order of the Pheonix|J.K. Rowling*Fiction/0000000000030
+Harry Potter and the Half-Blood Prince|J.K. Rowling*Fiction/0000000000031
+Harry Potter and the Deathly Hallows|J.K. Rowling*Fiction/0000000000032
+Harry Potter and the Cursed Child|J.K. Rowling*Fiction/0000000000033
+The Hunger Games|Suzanne Collins*Fiction/0000000000034
+To Kill a Mockingbird|Harper Lee*Fiction/0000000000035
+Pride and Prejudice|Jane Austen*Fiction/0000000000036
+Twilight (Twilight, #1)|Stephenie Meyer*Fiction/0000000000037
+The Book Thief|Markus Zusak*Fiction/000000000003ght Outing|Robert Bask*Romance/0000000000001
+The Break of Dawn|Lenna Stuart*Romance/0000000000002
+Twilight|Ben Dover*Romance/0000000000003
+The Great Escape|Robert Bask*Romance/0000000000004
+Kiss|May Potter*Romance/0000000000005
+Everytime We Touch|Robert Bask*Romance/0000000000006
+Back To You|Lenna Stuart*Romance/0000000000007
+Blow Me One Last Kiss|Lenna Petterson*Romance/0000000000008
+Experiment XXX|Peter Blake*Science/0000000000009
+The Alien From Mars|Ethan West*Science/0000000000010
+Terminator|Andrew Simmer*Science/0000000000011
+Rise of The Machine|Larry Bolt*Science/0000000000012
+Back To The Future|Tom Bert*Science/0000000000013
+Jump To The Past|Tom Bert*Science/0000000000014
+Deus Ex Machina|Shawn Kim*Science/0000000000015
+Mutant Ninja Turtles|Austin Jackson*Science/0000000000016
+The Death of John Burney|Christen Miles*Mystery/0000000000017
+The Clock Strikes 12|Gina Stevens*Mystery/0000000000018
+Sherlock|Sam Myre*Mystery/0000000000019
+Serial Killer|Eric Mario*Mystery/0000000000020
+Spree|Yami Yugi*Mystery/0000000000021
+Who Did It?|Ben Ten*Mystery/0000000000022
+Mystery of The Glove|Jim Slim*Mystery/0000000000023
+They Who Lay In The Lake|Jo Mama*Mystery/0000000000024
+Rusted Dagger|Jo Mama*Mystery/0000000000025

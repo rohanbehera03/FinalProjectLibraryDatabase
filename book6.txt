@@ -1,0 +1,91 @@
+And Tom Sawyer among the Indians |Tom Sawyer*Adventure/0000000000243
+Tom Sawyer Abroad |Tom Sawyer*Adventure/0000000000244
+Tom Sawyer, Detective |Tom Sawyer*Adventure/0000000000245
+Structure and Interpretation of Computer Programs|Harold Abelson*Nonfiction/0000000000246
+Before They Are Hanged|Joe Abercrombie*Nonfiction/0000000000247
+The Blade Itself|Joe Abercrombie*Nonfiction/0000000000248
+The Life of a Stupid Man|Ryunosuke Akutagawa*Nonfiction/0000000000249
+Helliconia|Brian Aldiss*Nonfiction/0000000000250
+The Divine Comedy|Dante Alighier*Nonfiction/0000000000251
+The Gardens of Ynn: A delightful horticultural adventure for use in old-school roleplaying games|Emmy Allen*Nonfiction/0000000000252
+The Monsters Know What They're Doing: Combat Tactics for Dungeon Masters|Keith Ammann*Nonfiction/0000000000253
+Tau Zero|Poul Anderson*Nonfiction/0000000000254
+The Great Indoors: The Surprising Science of How Buildings Shape Our Behaviour, Health, and Happiness|Emily Anthes*Nonfiction/0000000000255
+JoJo's Bizarre Adventure: Part I. Phantom Blood (vol. 1)|Hirohiko Araki*Manga/0000000000256
+JoJo's Bizarre Adventure: Part I. Phantom Blood (vol. 2)|Hirohiko Araki*Manga/0000000000257
+Foundation, Foundation and Empire, Second Foundation|Isaac Asimov*Manga/0000000000258
+The Complete Robot|Isaac Asimov*Manga/0000000000259
+The Naked Sun|Isaac Asimov*Manga/0000000000260
+Meditations|Marcus Aurelius*Manga/0000000000261
+Azumanga Daioh Omnibus|Kiyohiko Azuma*Manga/0000000000262
+Yotsuba &! (vol. 1)|Kiyohiko Azuma*Manga/0000000000263
+Yotsuba &! (vol. 2)|Kiyohiko Azuma*Manga/0000000000264
+Yotsuba &! (vol. 3)|Kiyohiko Azuma*Manga/0000000000265
+Yotsuba &! (vol. 4)|Kiyohiko Azuma*Manga/0000000000266
+Yotsuba &! (vol. 5)|Kiyohiko Azuma*Manga/0000000000267
+50 Physics Ideas You Really Need to Know|Joanne Baker*Science/0000000000268
+The Atheist's Mass|Honore de Balzac*Science/0000000000269
+Consider Phlebas|Iain M. Banks*Nonfiction/0000000000270
+Excession|Iain M. Banks*Nonfiction/0000000000271
+Inversions|Iain M. Banks*Nonfiction/0000000000272
+Look to Windward|Iain M. Banks*Nonfiction/0000000000273
+Matter|Iain M. Banks*Nonfiction/0000000000274
+Surface Detail|Iain M. Banks*Nonfiction/0000000000275
+The Algebraist|Iain M. Banks*Nonfiction/0000000000276
+The Hydrogen Sonata|Iain M. Banks*Nonfiction/0000000000277
+The Indian in the Cupboard Trilogy|Lynne Reid Banks*Nonfiction/0000000000278
+The Player of Games|Iain M. Banks*Nonfiction/0000000000279
+The Player of Games|Iain M. Banks*Nonfiction/0000000000280
+The State of the Art|Iain M. Banks*Nonfiction/0000000000281
+Use of Weapons|Iain M. Banks*Nonfiction/0000000000282
+Mister B Gone|Clive Barker*Nonfiction/0000000000283
+The Hellbound Heart|Clive Barker*Horror/0000000000284
+In the Court of the Yellow King|Glynn Owen Barrass*Horror/0000000000285
+Jennifer Government|Max Barry*Nonfiction/0000000000286
+The Godwhale|T. J. Bass*Nonfiction/0000000000287
+Raft|Stephen Baxter*Nonfiction/0000000000288
+The Long Earth|Stephen Baxter*Nonfiction/0000000000289
+The Long War|Stephen Baxter*Nonfiction/0000000000290
+The Forge of God|Greg Bear*Nonfiction/0000000000291
+The Phoenix Project: A Novel About IT, DevOps, and Helping your Business Win|Kevin Behr*Nonfiction/0000000000292
+The Rule of Benedict|Benedict of Nursia*Nonfiction/0000000000293
+Site Reliability Engineering: How Google Runs Production Systems|Betsy Beyer*Nonfiction/0000000000294
+The Site Reliability Workbook: Practical Ways to Implement SRE|Betsy Beyer*Nonfiction/0000000000295
+Can Such Things Be?|Ambrose Bierce*Horror/0000000000296
+Civil War Stories|Ambrose Bierce*Horror/0000000000297
+The Bizarro Starter Kit (Blue)|Steve Aylett*Horror/0000000000298
+The Bizarro Starter Kit (Orange)|Steve Beard*Horror/0000000000299
+The Bizarro Starter Kit (Purple)|David Agranoff*Horror/0000000000300
+Ancient Sorceries and Other Weird Stories|Algernon Blackwood*Horror/0000000000301
+Three Supernatural Classics: The Willows, The Wendigo, The Listener|Algernon Blackwood*Horror/0000000000302
+Mysteries of the Worm|Robert Bloch*Horror/0000000000303
+Adventures of the Wishing-Chair|Enid Blyton*Horror/0000000000304
+The Wishing-Chair Again|Enid Blyton*Thriller/0000000000305
+An Investigation of the Laws of Thought: On which are founded the Mathematical Theories of Logic and Probabilities|George Boole*Thriller/0000000000306
+Labyrinths|Jorge Luis Borges*Thriller/0000000000307
+The Aleph|Jorge Luis Borges*Thriller/0000000000308
+The Book of Imaginary Beings|Jorge Luis Borges*Thriller/0000000000309
+The Righteous Men|Sam Bourne*Thriller/0000000000310
+The Long Tomorrow|Leigh Brackett*Thriller/0000000000311
+Fahrenheit 451|Ray Bradbury*Thriller/0000000000312
+Something Wicked This Way Comes|Ray Bradbury*Thriller/0000000000313
+Room at the Top|John Braine*Thriller/0000000000314
+Dream Master Nightmare!|Theresa Breslin*Thriller/0000000000315
+The Dream Master|Theresa Breslin*Thriller/0000000000316
+A tourist guide to Lancre|Stephen Briggs*Thriller/0000000000317
+The Discworld mapp|Stephen Briggs*Thriller/0000000000318
+The streets of Ankh-Morpork|Stephen Briggs*Thriller/0000000000319
+The Postman|David Brin*Thriller/0000000000320
+Wuthering Heights|Emily Brontë*Thriller/0000000000321
+Dawn of the Dumb|Charlie Brooker*Thriller/0000000000322
+Computer Science: An Overview|J. Glenn Brookshear*Thriller/0000000000323
+Angels and demons|Dan Brown*Thriller/0000000000324
+Deception Point|Dan Brown*Thriller/0000000000325
+Digital Fortress|Dan Brown*Thriller/0000000000326
+The Da Vinci Code|Dan Brown*Thriller/0000000000327
+The Pilgrim's Progress|John Bunyan*Thriller/0000000000328
+A Clockwork Orange|Anthony Burgess*Fiction/0000000000329
+The Secret Garden|Frances Hodgson Burnett*Fiction/0000000000330
+The Melancholy Death of Oyster Boy & Other Stories|Tim Burton*Fiction/0000000000331
+The Secret|Rhonda Byrne*Fiction/0000000000332
+The Fall|Albert Camus*Fiction/0000000000333
